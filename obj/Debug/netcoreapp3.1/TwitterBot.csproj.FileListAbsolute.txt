@@ -1,0 +1,17 @@
+D:\programming\cs\projects\TwitterBot\TwitterBot\bin\Debug\netcoreapp3.1\TwitterBot.exe
+D:\programming\cs\projects\TwitterBot\TwitterBot\obj\Debug\netcoreapp3.1\TwitterBot.csprojAssemblyReference.cache
+D:\programming\cs\projects\TwitterBot\TwitterBot\obj\Debug\netcoreapp3.1\TwitterBot.AssemblyInfoInputs.cache
+D:\programming\cs\projects\TwitterBot\TwitterBot\obj\Debug\netcoreapp3.1\TwitterBot.AssemblyInfo.cs
+D:\programming\cs\projects\TwitterBot\TwitterBot\bin\Debug\netcoreapp3.1\TwitterBot.deps.json
+D:\programming\cs\projects\TwitterBot\TwitterBot\bin\Debug\netcoreapp3.1\TwitterBot.runtimeconfig.json
+D:\programming\cs\projects\TwitterBot\TwitterBot\bin\Debug\netcoreapp3.1\TwitterBot.runtimeconfig.dev.json
+D:\programming\cs\projects\TwitterBot\TwitterBot\bin\Debug\netcoreapp3.1\TwitterBot.dll
+D:\programming\cs\projects\TwitterBot\TwitterBot\bin\Debug\netcoreapp3.1\TwitterBot.pdb
+D:\programming\cs\projects\TwitterBot\TwitterBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\programming\cs\projects\TwitterBot\TwitterBot\bin\Debug\netcoreapp3.1\Hammock.ClientProfile.dll
+D:\programming\cs\projects\TwitterBot\TwitterBot\bin\Debug\netcoreapp3.1\TweetSharp.dll
+D:\programming\cs\projects\TwitterBot\TwitterBot\obj\Debug\netcoreapp3.1\TwitterBot.csproj.CoreCompileInputs.cache
+D:\programming\cs\projects\TwitterBot\TwitterBot\obj\Debug\netcoreapp3.1\TwitterBot.csproj.CopyComplete
+D:\programming\cs\projects\TwitterBot\TwitterBot\obj\Debug\netcoreapp3.1\TwitterBot.dll
+D:\programming\cs\projects\TwitterBot\TwitterBot\obj\Debug\netcoreapp3.1\TwitterBot.pdb
+D:\programming\cs\projects\TwitterBot\TwitterBot\obj\Debug\netcoreapp3.1\TwitterBot.genruntimeconfig.cache

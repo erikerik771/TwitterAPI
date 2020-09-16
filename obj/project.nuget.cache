@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "avEbkABdLNqmVXgql/7wHMfeu6+HWvve4zTjsJKqTdOsndIN6Xr9g1k8qb4TlO68ZrqJDs1BNVAj75JC9w0Nxg==",
+  "success": true,
+  "projectFilePath": "D:\\programming\\cs\\projects\\TwitterBot\\TwitterBot\\TwitterBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patri\\.nuget\\packages\\newtonsoft.json\\5.0.6\\newtonsoft.json.5.0.6.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\tweetsharp\\2.3.1\\tweetsharp.2.3.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 5.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'TweetSharp 2.3.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "TweetSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
